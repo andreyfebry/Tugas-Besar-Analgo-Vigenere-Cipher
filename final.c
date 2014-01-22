@@ -2,12 +2,12 @@
 #include <string.h>
 #include <process.h>
 
-//deklarasi fungsi
+
  void encrypt();
  void decrypt();
  
 
-//
+
 int menu;
 int main(int argc, char *argv[])
 {
